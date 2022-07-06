@@ -1,0 +1,170 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.first-div {
+    text-align: center;
+    color: white;
+    margin: 0%;
+    padding: 20px 30px;
+}
+
+
+h1 {
+    font-size: 60px;
+    margin: 5% 20%;
+}
+
+p {
+    color: gray;
+}
+
+.para-color {
+    color: aliceblue;
+}
+
+.paragraph {
+    text-align: center;
+    margin: 2.5% 20%;
+
+}
+
+a {
+    color: white;
+    background-color: tomato;
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-decoration-line: none;
+
+}
+
+.first-section {
+    background-image: url(images/donation13.jpg);
+    background-size: cover;
+}
+
+.second-section {
+    text-align: center;
+
+}
+
+h3 {
+    font-size: 30px;
+}
+
+.display-amount {
+    display: flex;
+    align-items: center;
+    margin: 0% 20%;
+}
+
+h4 {
+    color: gray;
+    margin: 20px 20px;
+    padding: 20px;
+    width: 20%;
+    border-radius: 5px;
+    background-color: rgba(169, 169, 169, 0.117);
+}
+
+.color-tk {
+    color: tomato;
+    border: 2.5px solid tomato;
+    background-color: rgba(255, 99, 71, 0.199);
+}
+
+#other-amount {
+    color: grey;
+}
+
+.third-section {
+    text-align: center;
+}
+
+.donate-plan {
+    display: flex;
+    margin: 0% 10%;
+
+
+}
+
+h5 {
+    border: 2px solid gray;
+    background-color: rgba(128, 128, 128, 0.137);
+    width: 100%;
+    margin: 10px;
+    padding: 5px;
+    text-align: left;
+    border-radius: 5px;
+}
+
+#part1 {
+    background-color: azure;
+}
+
+#part2 {
+    background-color: lightpink;
+}
+
+#part3 {
+    background-color: blanchedalmond;
+}
+
+.fourth-section {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: 5% 10%;
+}
+
+.fifth-section {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: 5% 10%;
+}
+
+.sixth-section {
+    text-align: center;
+    margin: 5% 5%;
+}
+
+#email-subscribe {
+    display: flex;
+    margin: 0% 30%;
+    border: 50px solid antiquewhite;
+}
+
+h6 {
+    margin: 0px 0px;
+    padding: 2.5% 5%;
+    width: 100%;
+    align-items: center;
+}
+
+#email {
+    color: gray;
+    background-color: azure;
+    text-align: left;
+    width: 75%;
+}
+
+#subscribe {
+    color: aliceblue;
+    background-color: tomato;
+    text-align: center;
+    width: 25%;
+}
+
+footer {
+    text-align: center;
+    font-style: inherit;
+    background-color: black;
+    padding: 2.5% 2.5%;
+}
+
+h2 {
+    color: tomato;
+    font-size: 50px;
+}
