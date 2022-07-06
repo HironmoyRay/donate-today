@@ -43,18 +43,27 @@ h3 {
     font-size: 30px;
 }
 
-.third-section {
-
+.display-amount {
     display: flex;
-    margin: 5% 20%;
+    align-items: center;
+    margin: 0% 20%;
 }
 
-.amount {
-    text-align: justify;
+h4 {
+    color: gray;
+    margin: 20px 20px;
+    padding: 20px;
     width: 20%;
+    border-radius: 5px;
+    background-color: rgba(169, 169, 169, 0.117);
 }
 
 .color-tk {
-    box-shadow: 5px 5px tomato;
-    border: 2px solid tomato;
+    color: tomato;
+    border: 2.5px solid tomato;
+    background-color: rgba(255, 99, 71, 0.199);
+}
+
+#other-amount {
+    color: grey;
 }
